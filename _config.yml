@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "China"
-site_theme               : "银鱼的个站" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "银鱼"
 title_separator          : "-"
 name                     : &name "Fish-flash"
 description              : &description "有意思的初中生！"   # Update this with a general description of your site, this is the default if not overridden by a page
